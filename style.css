@@ -17,6 +17,7 @@ body{
     padding: .2rem 5rem;
 }
 
+
 .seçao-de-categoriass{
     display: flex;
     margin-left: 2%;
@@ -35,6 +36,10 @@ body{
     transition: 150ms;
 }
 
+.selecionar-categoria1:hover{
+    background-color: #F9E722;
+}
+
 .seçao-de-categoriass .selecionar-categoria2 {
     margin-right: 1rem;
     white-space: nowrap;
@@ -45,6 +50,10 @@ body{
     font-size: inherit;
     cursor: pointer;
     transition: 150ms;
+}
+
+.selecionar-categoria2:hover{
+    background-color: #F9E722;
 }
 
 .seçao-de-categoriass .selecionar-categoria3 {
@@ -59,6 +68,10 @@ body{
     transition: 150ms;
 }
 
+.selecionar-categoria3:hover{
+    background-color: #F9E722;
+}
+
 .seçao-de-categoriass .selecionar-categoria4 {
     margin-right: 1rem;
     white-space: nowrap;
@@ -69,6 +82,10 @@ body{
     font-size: inherit;
     cursor: pointer;
     transition: 150ms;
+}
+
+.selecionar-categoria4:hover{
+    background-color: #F9E722;
 }
 
 .seçao-de-categoriass .selecionar-categoria5 {
@@ -83,6 +100,10 @@ body{
     transition: 150ms;
 }
 
+.selecionar-categoria5:hover{
+    background-color: #F9E722;
+}
+
 .seçao-de-categoriass .selecionar-categoria6 {
     margin-right: 1rem;
     white-space: nowrap;
@@ -93,6 +114,10 @@ body{
     font-size: inherit;
     cursor: pointer;
     transition: 150ms;
+}
+
+.selecionar-categoria6:hover{
+    background-color: #F9E722;
 }
 
 .seçao-de-categoriass .selecionar-categoria7 {
@@ -107,6 +132,10 @@ body{
     transition: 150ms;
 }
 
+.selecionar-categoria7:hover{
+    background-color: #F9E722;
+}
+
 .seçao-de-categoriass .selecionar-categoria8 {
     margin-right: 1rem;
     white-space: nowrap;
@@ -117,6 +146,10 @@ body{
     font-size: inherit;
     cursor: pointer;
     transition: 150ms;
+}
+
+.selecionar-categoria8:hover{
+    background-color: #F9E722;
 }
 
 .seçao-de-categoriass .selecionar-categoria9 {
@@ -131,6 +164,10 @@ body{
     transition: 150ms;
 }
 
+.selecionar-categoria9:hover{
+    background-color: #F9E722;
+}
+
 .seçao-de-categoriass .selecionar-categoria10 {
     margin-right: 1rem;
     white-space: nowrap;
@@ -141,6 +178,10 @@ body{
     font-size: inherit;
     cursor: pointer;
     transition: 150ms;
+}
+
+.selecionar-categoria10:hover{
+    background-color: #F9E722;
 }
 
 .header{
@@ -222,7 +263,8 @@ body{
 .video {
     margin:5%;
     display: flex;
-    justify-content: center; /* Centraliza o vídeo */  align-items: center;
+    justify-content: center; /* Centraliza o vídeo */  
+    align-items: center;
     width:90%;
 }
 
